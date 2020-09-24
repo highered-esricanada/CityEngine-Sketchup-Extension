@@ -1,4 +1,4 @@
-<img src="/logo.png" width="50" alt="Logo"> <h1> CityEngine Sketchup Extension</h1>
+## CityEngine Sketchup Extension <img src="/logo.png" width="30" alt="Logo">
 
 The CityEngine SketchUp Extension allows users to create models in SketchUp using [CityEngine's](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) procedural modelling capabilities.
 
