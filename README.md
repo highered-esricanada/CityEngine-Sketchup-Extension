@@ -6,7 +6,8 @@
 The extension works with the Windows version of SketchUp 2017, 2018, 2019, and 2020. The installer for the extension assumes you have intalled SketchUp to the main Program Files folder.
 
 ## Instructions
-1. Download the installer [here](releases/latest/download/CityEngine.SketchUp.Installer.exe).
+1. Download the installer [here](https://github.com/highered-esricanada/CityEngine-Sketchup-Extension/releases/latest/download/CityEngine.SketchUp.Installer.exe
+).
 1. Run the installer executable and choose the versions of SketchUp for which you would like to install the extension.
 1. Launch SketchUp.
 1. Once you're in the SketchUp 3D viewport, click **Extensions -> Show CityEngine Window** to open the attribute editor.
