@@ -20,7 +20,7 @@ The extension works with the Windows version of SketchUp 2017, 2018, 2019, and 2
 ![demo](/demo.gif)
 
 ## Add Rule Packages
-Rule packages can be added to the **C:\ProgramData\SketchUp\RPK** folder to increase the types of models that can be generated. You can find rule packages on Esri Canada's [3D City Model Resources Site](https://highered-esricanada.github.io/3D-City-Model-Resources/), which showcases useful rule packages that have been uploaded to [ArcGIS Online](https://www.arcgis.com/).
+Rule packages can be added to the **C:\ProgramData\SketchUp\RPK** folder to increase the types of models that can be generated. You can find rule packages on Esri Canada's [3D City Model Resources Site](https://3dcitymodel.esriservices.ca/), which showcases useful rule packages that have been uploaded to [ArcGIS Online](https://www.arcgis.com/).
 
 ## Licensing
 The SketchUp CityEngine Extension is under the same license as the included [CityEngine SDK](https://github.com/Esri/cityengine-sdk), and is free for non-commercial use. Commercial use requires at least one commercial license of the latest CityEngine version installed in the organization. No redistribution is allowed.
