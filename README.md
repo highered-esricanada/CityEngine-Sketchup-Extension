@@ -3,7 +3,7 @@
 The CityEngine SketchUp Extension allows users to create models in SketchUp using [CityEngine's](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) procedural modelling capabilities.
 
 ## Requirements
-The extension works with the Windows version of SketchUp 2017 to 2021. The installer for the extension assumes you have intalled SketchUp to the main Program Files folder.
+The extension works with the Windows version of SketchUp 2017 to 2022. The installer for the extension assumes you have intalled SketchUp to the main Program Files folder.
 
 ## Instructions
 1. Download the installer [here](https://github.com/highered-esricanada/CityEngine-Sketchup-Extension/releases/download/1.1/CE.Sketchup.Installer.exe
