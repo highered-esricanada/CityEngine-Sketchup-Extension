@@ -6,7 +6,7 @@ The CityEngine SketchUp Extension allows users to create models in SketchUp usin
 The extension works with the Windows version of SketchUp 2017 to 2024. The installer for the extension assumes you have intalled SketchUp to the main Program Files folder.
 
 ## Instructions
-1. Download the installer [here](https://github.com/highered-esricanada/CityEngine-Sketchup-Extension/releases/download/1.2/CE.Sketchup.Installer.exe
+1. Download the installer [here](https://github.com/highered-esricanada/CityEngine-Sketchup-Extension/releases/download/1.5/CE.Sketchup.Installer.exe
 ).
 1. Run the installer executable and choose the versions of SketchUp for which you would like to install the extension.
 1. Launch SketchUp.
